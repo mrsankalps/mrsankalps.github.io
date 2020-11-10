@@ -13,4 +13,4 @@ Whatever reason you are here for, welcome!
 Now, my name is Sankalp. I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! However, I like CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me.
 ### Contact me
 
-[ssankalp@protonmail.com](mailto:ssankalp@protonmail.com)
+[ssankalp@protonmail.ch](mailto:ssankalp@protonmail.ch)
