@@ -10,13 +10,7 @@ Before you get to know me, think for a second- Why are you here? How did you end
 Whatever reason you are here for, welcome!
 
 
-Now, my name is Sankalp. I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! However, I am here to talk about a variety of subjects- CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me. 
-
-I hope you find something interesting and meaningful here. Happy reading!
-
-P.S.- If you have some ideas to discuss or any kind of constructive criticism to share, please feel free to reach out to me. 
-
-
+Now, my name is Sankalp. I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! However, I like CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me.
 ### Contact me
 
 [ssankalp@protonmail.com](mailto:ssankalp@protonmail.com)
