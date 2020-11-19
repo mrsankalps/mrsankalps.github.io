@@ -6,7 +6,8 @@ permalink: /about/
 
 My name is Sankalp, and welcome to my humble web-abode!
 I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! 
-While watching Star Trek, I heard Spock say- 
+While watching Star Trek, I heard Spock say-
+
 “Insufficient facts always invite Danger!”
 
 Thus, I have a simple goal; albeit a strenuous goal: to educate myself and then help others unlearn the misconceptions and misinformation that misguide people, and act as a cobweb all over the internet. 
