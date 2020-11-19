@@ -4,13 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Namaste, Hello, Privet, Annyeonghaseyo… and all the greetings of the world to you!
+My name is Sankalp, and welcome to my humble web-abode!
+I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! 
+While watching Star Trek, I heard Spock say- 
+“Insufficient facts always invite Danger!”
 
-Before you get to know me, think for a second- Why are you here? How did you end up on my blog? Maybe you were just surfing the crazy world of the internet and stumbled upon this; maybe you wanted to be here in the first place; it is also possible that you are here to dox me ;)
-Whatever reason you are here for, welcome!
+Thus, I have a simple goal; albeit a strenuous goal: to educate myself and then help others unlearn the misconceptions and misinformation that misguide people, and act as a cobweb all over the internet. 
 
+I am not an expert in any domain but want to share my thoughts from the perspective of a curious learner who is out there seeking the true essence of knowledge. You’ll find me writing about a variety of subjects- CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me. 
 
-Now, my name is Sankalp. I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of! However, I like CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me.
+I hope you find something interesting and meaningful here. Happy reading!
+
+P.S.- If you have some ideas to discuss or any kind of constructive criticism to share, please feel free to reach out to me. 
+
 ### Contact me
 
 [ssankalp@protonmail.ch](mailto:ssankalp@protonmail.ch)
