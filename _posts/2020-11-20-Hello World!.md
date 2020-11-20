@@ -5,7 +5,8 @@ title: Hello World!
 ---
 
 My name is Sankalp, and welcome to my humble web-abode!
-I am a 21 years old student(?) and more importantly a “Hacker.” Not the type you’re probably thinking of!
+I am a 21 years old student(?) and more importantly a "[Hacker]({% https://sankalp.me/Hacker/ 2020-20-21-Hacker? %})
+". Not the type you’re probably thinking of!
 
 While watching Star Trek, I heard Spock say- 
 *“Insufficient facts always invite Danger!”*
