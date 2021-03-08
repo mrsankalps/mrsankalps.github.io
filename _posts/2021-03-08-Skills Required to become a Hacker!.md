@@ -1,3 +1,9 @@
+---
+layout: post
+title: Skills required to become a Hacker! 
+tags: [hacking]
+
+---
 
 In the last post I wrote about who a hacker is. But to become one, what skills does one require? Let’s see how a hacker would approach this problem statement!
 Primarily we will figure out what it is that we want to hack. For instance, in  our case we want to hack computers and networks. So first off, we will make a network diagram.
