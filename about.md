@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 My name is Sankalp, and welcome to my humble web-abode!
-I am a 24 years old student(?) and more importantly a “[Hacker](https://mrsankalps.github.io/Hacker/)". Not the type you’re probably thinking of! 
+I am a 24 years old learner and more importantly a “[Hacker](https://mrsankalps.github.io/Hacker/)". Not the type you’re probably thinking of! 
 
 While watching Star Trek, I heard Spock say- “Insufficient facts always invite Danger!”
 
 Thus, I have a simple goal; albeit a strenuous goal: to educate myself and then help others unlearn the misconceptions and misinformation that misguide people, and act as a cobweb all over the internet. 
 
-I am not an expert in any domain but want to share my thoughts from the perspective of a curious learner who is out there seeking the true essence of knowledge. You’ll find me writing about a variety of subjects- CyberSecurity, Psychology, Finance, Philosophy, and anything that intrigues me. 
+I am not an expert in any domain but want to share my thoughts from the perspective of a curious learner who is out there seeking the true essence of knowledge. You’ll find me writing about a variety of subjects- Technology, CyberSecurity, Psychology, Finance, Mathematics, and anything that intrigues me. 
 
 I hope you find something interesting and meaningful here. Happy reading!
 
