@@ -5,7 +5,7 @@ title: Hello World!
 ---
 
 My name is Sankalp, and welcome to my humble web-abode!
-I am a 22 years old student(?) and more importantly a "[Hacker](https://sankalp.me/Hacker/)
+I am a 22 years old student(?) and more importantly a "[Hacker](https://mrsankalps.github.io/Hacker/)
 ". Not the type you’re probably thinking of!
 
 While watching Star Trek, I heard Spock say- 
