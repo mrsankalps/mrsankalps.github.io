@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 My name is Sankalp, and welcome to my humble web-abode!
-I am a 21 years old student(?) and more importantly a “[Hacker](https://mrsankalps.github.io/Hacker/)". Not the type you’re probably thinking of! 
+I am a 24 years old student(?) and more importantly a “[Hacker](https://mrsankalps.github.io/Hacker/)". Not the type you’re probably thinking of! 
 
 While watching Star Trek, I heard Spock say- “Insufficient facts always invite Danger!”
 
